@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Wprowadzenie 
 
-You can use the [editor on GitHub](https://github.com/huberttt/imdb-filmweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jak wiadomo w serwisach filmweb.pl oraz imdb.com każdy użytkownik może wystawić danemu filmowi ocenę w skali 1-10. Na podstawie ocen wszystkich użytkowników obliczana jest ważona średnia ocena filmu, która decyduje o pozycji filmu w rankingu. Często zdarza się, że części setne oceny rozstrzygają o lokacie filmu na określonych pozycjach, a spadek oceny o części dziesiętne skutkuje spadkiem o dziesiątki lub setki pozycji w rankingu najwyżej ocenionych pozycji.
+Podobnie w serwisie filmweb.pl istnieje baza danych dla osób kina zawierająca oceny wystawiane aktorom i reżyserom za całokształt ich twórczości w skali od 1-10 przez użytkowników serwisu i - jak można się domyślić – ranking najlepiej ocenianych artystów rządzi się podobnymi prawami.
+Można zadać pytanie w jakim stopniu popularność, dobór obsady filmu i reżyseria, rozumiana jako osoba reżysera, oddziałują na postrzeganie filmu przez społeczność użytkowników. Niniejsze opracowanie powstało jako próba wyjaśnienia, z wykorzystaniem metod ilościowych w jaki sposób liczba otrzymanych głosów, średnia ocena aktorów grających główne role w filmie oraz ocena reżysera filmu wpływają na całościową ocenę dzieła w oczach społeczności użytkowników, analizując najwyżej oceniane filmy.
 
 ### Markdown
 
