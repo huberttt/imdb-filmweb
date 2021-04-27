@@ -13,7 +13,8 @@ Jako średnia ocena aktorów dla danego filmu przyjęta została średnia ocen c
 Bazą wyjściową dla filmów, które zostały wybrane do analizy posłużył ranking "wszechczasów" ze strony imdb.com „Top 1000”. Obejmował on szerszy katalog dzieł niż ranking "top 500" filmwebu.
 Aby porównać go z rankingiem Top filmwebu, należało odfiltrować filmy, dla których nie można było wyznaczyć średniej oceny aktorów grających w danym filmie (niektóre filmy, które bywają popularne w serwisie imdb stanowią niszę wśród polskich użytkowników, więc aktorzy z ich obsady nie są popularni w serwisie filmweb, przez co brak wystarczająco licznej próbki głosów do uwiarygodnienia ich oceny). Spośród 1000 najwyżej ocenianych filmów z „Top 1000” dla imdb.com pozostały zatem 796 tytułów do analizy, dla których udało się wyznaczyć średnią oceną aktorów i reżysera dla portalu filmweb.pl.
 
-Bazowa tabela moviedata.csv znajduje się w repozytorium. 
+Bazowa tabela moviedata.csv znajduje się w repozytorium. Dane pochodzą z 04.2020, a do ich uzyskania posłużyła biblioteka rvest oraz RSelenium.
+
 
 ```markdown
 Syntax highlighted code block
